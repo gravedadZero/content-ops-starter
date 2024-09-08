@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: CRA QUINTANA WEB
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Somos un equipo increíble, con muchísimas ganas de dar lo mejor de
+      nosotros mismos a la sociedad. Así que te animo a descubrir por ti mismo
+      cuáles son nuestros trabajos y proyectos actualmente.
+
     actions:
       - label: Conócenos
         altText: ''
