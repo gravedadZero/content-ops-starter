@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Carreras
 slug: careers
 sections:
   - title:
