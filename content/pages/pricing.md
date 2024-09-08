@@ -27,7 +27,7 @@ sections:
         features:
           - Estamos aqui.
           - Somos el futuro.
-          - Feature three
+          - Vamos a qudarnos
           - Feature four
         image:
           url: /images/abstract-feature1.svg
