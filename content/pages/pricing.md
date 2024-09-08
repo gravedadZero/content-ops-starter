@@ -34,7 +34,7 @@ sections:
           altText: Pricing plan 1
           type: ImageBlock
         actions:
-          - label: Accede a la web
+          - label: Accede
             url: /
             icon: arrowRight
             iconPosition: right
