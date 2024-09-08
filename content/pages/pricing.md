@@ -52,7 +52,7 @@ sections:
         type: PricingPlan
       - title: Asociación Cultural HIJOVEJO
         price: ''
-        details: per month
+        details: Por el patrimonio cultural de Quintana de la Serena.
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
