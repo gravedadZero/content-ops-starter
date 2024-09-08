@@ -13,7 +13,7 @@ sections:
     plans:
       - title: Actúa Quintana
         price: Asociación sin ánimo de lucro.
-        details: No credit card required
+        details: '"por la erradicación de la pobreza"'
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
