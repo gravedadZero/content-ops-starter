@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: FUNDACIÓN SIN ANIMO DE LUCRO
+    subtitle: Abre tu corazón y dedícales tu tiempo.
     plans:
       - title: Actúa Quintana
         price: Asociación sin ánimo de lucro.
