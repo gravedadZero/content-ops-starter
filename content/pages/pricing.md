@@ -12,7 +12,7 @@ sections:
     subtitle: FUNDACIÓN SIN ANIMO DE LUCRO
     plans:
       - title: Actúa Quintana
-        price: Free
+        price: Asociación sin ánimo de lucro.
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
