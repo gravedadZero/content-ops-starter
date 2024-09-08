@@ -1,5 +1,5 @@
 ---
-title: Proyectos Aprendizaje Servicio
+title: APS
 slug: pricing
 sections:
   - title:
