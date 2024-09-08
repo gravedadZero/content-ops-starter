@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Proyectos Aprendizaje Servicio",
-            "url": "/pricing",
+            "url": "/APS",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
