@@ -25,7 +25,7 @@ sections:
           por parte del alumnado trabajador, respecto a valores esenciales como
           es la erradicación de la pobreza en el área de actuación local.
         features:
-          - Feature one
+          - Estamos aqui
           - Feature two
           - Feature three
           - Feature four
