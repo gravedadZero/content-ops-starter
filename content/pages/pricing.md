@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: FUNDACIÓN SIN ANIMO DE LUCRO
     plans:
-      - title: Developers
+      - title: Actúa Quintana
         price: Free
         details: No credit card required
         description: >-
