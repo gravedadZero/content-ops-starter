@@ -28,7 +28,7 @@ sections:
           - Estamos aqui.
           - Somos el futuro.
           - Vamos a quedarnos.
-          - Feature four
+          - Nadie nos podrá parar.
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
