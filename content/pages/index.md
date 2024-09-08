@@ -8,11 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: CRA QUINTANA WEB
-    text: >+
+    text: >
       Somos un equipo increíble, con muchísimas ganas de dar lo mejor de
       nosotros mismos a la sociedad. Así que te animo a descubrir por ti mismo
-      cuáles son nuestros trabajos y proyectos actualmente.
-
+      cuáles son los trabajos y proyectos en los que estamos trabajando.
     actions:
       - label: Conócenos
         altText: ''
