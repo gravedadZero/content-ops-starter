@@ -14,9 +14,16 @@ sections:
       - title: Actúa Quintana
         price: Asociación sin ánimo de lucro.
         details: '"por la erradicación de la pobreza"'
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Desde CRA QUINTANA WEB hemos decidido ayudar a dar visibilidad a esta
+          asociación sin ánimo de lucro por un bien social. 
+
+
+          De una parte, nuestro equipo de trabajo practican con eficiencia todos
+          los contenidos que se van impartiendo de forma teórico/práctica día a
+          día. De otra, se produce una concienciación y un fuerte compromiso,
+          por parte del alumnado trabajador, respecto a valores esenciales como
+          es la erradicación de la pobreza en el área de actuación local.
         features:
           - Feature one
           - Feature two
