@@ -26,7 +26,7 @@ sections:
           es la erradicación de la pobreza en el área de actuación local.
         features:
           - Estamos aqui
-          - Feature two
+          - Somos el futuro.
           - Feature three
           - Feature four
         image:
