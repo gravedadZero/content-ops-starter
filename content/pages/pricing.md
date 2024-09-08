@@ -3,7 +3,7 @@ title: Proyectos Aprendizaje Servicio
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: APS 1
       color: text-dark
       styles:
         self:
