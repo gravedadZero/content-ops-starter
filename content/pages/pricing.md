@@ -51,7 +51,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Asociación Cultural HIJOVEJO
-        price: $99
+        price: ''
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
