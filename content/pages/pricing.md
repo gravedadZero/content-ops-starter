@@ -3,7 +3,7 @@ title: APS
 slug: pricing
 sections:
   - title:
-      text: Proyecto Aprendizaje Servicio
+      text: Proyectos Aprendizaje Servicio
       color: text-dark
       styles:
         self:
