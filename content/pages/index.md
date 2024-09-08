@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Un equipo que trabaja en est
+      text: Un equipo que trabaja en estrecha colaboración.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
