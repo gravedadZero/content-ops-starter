@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Proyectos Aprendizaje Servicio
 slug: pricing
 sections:
   - title:
